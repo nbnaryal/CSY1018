@@ -1,0 +1,15 @@
+body{
+	margin:0;
+}
+header{
+	background: red;padding; 2%;text-align: center;
+	font-size: 30px;color: blue;
+
+}
+section{
+	background:blue; padding:5%; text-align: center;
+	
+}
+footer{
+	background: green;padding:5%; text-align: center;
+}
